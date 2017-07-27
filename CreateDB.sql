@@ -1,0 +1,1 @@
+create database slmdb with owner = slmadmin template = template1 encoding = 'UTF-8';

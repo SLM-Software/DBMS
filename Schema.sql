@@ -1,0 +1,1 @@
+CREATE SCHEMA slm AUTHORIZATION slmadmin;
