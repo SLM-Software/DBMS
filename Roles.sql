@@ -1,1 +1,1 @@
-create role slmadmin with createdb createrole login encrypted password '<EDIT>';
+create role slmadmin with createdb createrole login encrypted password 'Yidiao01';
