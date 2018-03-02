@@ -1,1 +1,1 @@
-create database slmdb with owner = slmadmin template = template1 encoding = 'UTF-8';
+create database edendb with owner = edenadmin template = template1 encoding = 'UTF-8';
